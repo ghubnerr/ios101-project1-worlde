@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[Guide]](https://www.loom.com/share/cb1c454c212c4d9db2354c821548b71a?sid=dc3011dd-8318-468d-8862-ffef0bb85281).
+[Guide](https://www.loom.com/share/cb1c454c212c4d9db2354c821548b71a?sid=dc3011dd-8318-468d-8862-ffef0bb85281).
 
 
 ## Notes
